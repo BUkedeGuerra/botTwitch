@@ -1,5 +1,7 @@
-const tmi = require("tmi.js");
-const { sample } = require("lodash");
+/* const tmi = require("tmi.js");
+const { sample } = require("lodash"); */
+import * as tmi from "tmi.js";
+import sample from "lodash";
 
 // Define configuration options
 const opts = {
