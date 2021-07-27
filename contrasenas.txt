@@ -1,0 +1,9 @@
+usuario
+alsarabot
+
+contraseña
+u,GKCj7bSb5C,r8
+
+token 
+oauth:upy7cpsygn2uxqbih6umqh3fil3jon
+
